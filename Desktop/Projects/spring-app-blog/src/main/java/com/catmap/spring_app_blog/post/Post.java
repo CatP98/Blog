@@ -40,7 +40,7 @@ public class Post {
         this.tags = tags;
         this.createdAt = createdAt;
         this.updatedAt = updatedAt;
-        this.comments = null;
+        this.comments = null ;
     }
 
     // Constructor with basic fields
